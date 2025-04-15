@@ -1,0 +1,6 @@
+- [https://github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [https://jamesmcm.github.io/blog/programming-projects/](https://jamesmcm.github.io/blog/programming-projects/)
+- [https://github.com/florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)    
+- [https://github.com/practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+- [https://projectbook.code.brettchalupa.com/introduction.html](https://projectbook.code.brettchalupa.com/_introduction.html)
+- [https://codingchallenges.fyi/challenges/intro/](https://codingchallenges.fyi/challenges/intro/)

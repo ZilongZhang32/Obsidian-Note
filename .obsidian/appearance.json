@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "MonoLisa Variable",
+  "translucency": true,
+  "textFontFamily": "SF Pro Text",
+  "baseFontSize": 16
+}

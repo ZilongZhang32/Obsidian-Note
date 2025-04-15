@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "ba96c8200657876b",
+    "id": "63770403da3444df",
     "type": "split",
     "children": [
       {
-        "id": "4d8b01b66702c0f6",
+        "id": "fd7074b07b6bb57f",
         "type": "tabs",
         "children": [
           {
-            "id": "6cad6b77b797be01",
+            "id": "935afaae98a7c5b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10. Programming/01. LeetCode/1. Problems/Add Binary.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "Add Binary"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b5a2708d1f1ae167",
+    "id": "7ab302ef2cd737a3",
     "type": "split",
     "children": [
       {
-        "id": "b84362237ba0bf84",
+        "id": "bb9e09fc6e6b8f30",
         "type": "tabs",
         "children": [
           {
-            "id": "90ae9faf49f701bc",
+            "id": "9d2bb3cc2b71c76e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "002b5b18abb63a6e",
+            "id": "f03330445459e8f8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "21b3bc4012badc56",
+            "id": "0587ace685b30947",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "7fb05efb574e94d3",
+    "id": "d40c229ad5a6cfb7",
     "type": "split",
     "children": [
       {
-        "id": "ba98ba5d12fd269a",
+        "id": "9ec3361640e3c718",
         "type": "tabs",
         "children": [
           {
-            "id": "af7d4cac1b5606e3",
+            "id": "be47441046b90841",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10. Programming/01. LeetCode/1. Problems/Add Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "Add Binary 的反向連結"
             }
           },
           {
-            "id": "f8fa852ab71614ab",
+            "id": "fe54695d1f9f2af2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10. Programming/01. LeetCode/1. Problems/Add Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "Add Binary 的對外連結"
             }
           },
           {
-            "id": "9489e4931b7da5a2",
+            "id": "26bf767a63a73705",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,25 +137,36 @@
             }
           },
           {
-            "id": "863b4cc7c496a667",
+            "id": "ab328dc1b0bb293d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "10. Programming/01. LeetCode/1. Problems/Add Binary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "Add Binary 的大綱"
+            }
+          },
+          {
+            "id": "d9d0ac6fa93c9c70",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +175,55 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cad6b77b797be01",
-  "lastOpenFiles": []
+  "active": "d9d0ac6fa93c9c70",
+  "lastOpenFiles": [
+    "Obsidian-Note",
+    "00. Bookmarks/面試準備&技巧.md",
+    "00. Bookmarks/面試考古題.md",
+    "10. Programming/01. LeetCode/1. Problems/Add Binary.md",
+    "10. Programming/01. LeetCode/1. Problems/Best Time to Buy and Sell Stock.md",
+    "10. Programming/01. LeetCode/1. Problems/Climbing Stairs.md",
+    "10. Programming/01. LeetCode/1. Problems/Balanced Binary Tree.md",
+    "10. Programming/01. LeetCode/1. Problems/Linked List Cycle.md",
+    "Excalidraw/Drawing - Data flow.md",
+    "00. Bookmarks/Behavoir Question Compilation.md",
+    "10. Programming/03. Data Structures/Fundamental/Heap.md",
+    "10. Programming/03. Data Structures/Fundamental/Queue.md",
+    "10. Programming/03. Data Structures/Fundamental/Hash Table.md",
+    "10. Programming/03. Data Structures/Fundamental/Trie.md",
+    "10. Programming/03. Data Structures/Fundamental/String.md",
+    "10. Programming/03. Data Structures/Fundamental/Stack.md",
+    "10. Programming/03. Data Structures/Fundamental/Set.md",
+    "10. Programming/03. Data Structures/Fundamental/Map.md",
+    "10. Programming/03. Data Structures/Fundamental/N-ary Tree.md",
+    "10. Programming/03. Data Structures/Fundamental/Linked List.md",
+    "10. Programming/03. Data Structures/Fundamental/List.md",
+    "10. Programming/03. Data Structures/Fundamental/Binary Tree.md",
+    "10. Programming/03. Data Structures/Fundamental/Binary Search Tree.md",
+    "10. Programming/03. Data Structures/Advanced/Skip List.md",
+    "10. Programming/03. Data Structures/Fundamental/Graph.md",
+    "10. Programming/03. Data Structures/Advanced/Red-Black Tree.md",
+    "10. Programming/03. Data Structures/Fundamental",
+    "10. Programming/03. Data Structures/Advanced",
+    "10. Programming/01. LeetCode/Appendix",
+    "10. Programming/01. LeetCode/1. Problems",
+    "10. Programming/01. LeetCode/0. Problem Set",
+    "Attachments/inverted_binary_tree_example_1.png",
+    "Attachments/balanced_binary_tree.png",
+    "Attachments/sorting_algorithms_comparison.png",
+    "Attachments/binary_tree_definition.png",
+    "Attachments/analysis_of_perfect_binary_tree.png",
+    "20. Code Snippets/02.",
+    "20. Code Snippets/03.",
+    "20. Code Snippets/01.",
+    "10. Programming/00. Resources",
+    "10. Programming/05. Topics"
+  ]
 }
