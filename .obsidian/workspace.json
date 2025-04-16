@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Bookmarks/面試考古題.md",
+                "file": "10. Programming/06. Operating System/Dining Philosophers Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面試考古題"
+              "title": "Dining Philosophers Problem"
+            }
+          },
+          {
+            "id": "29a70e17351afd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Programming/06. Operating System/Deadlock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deadlock"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "d40c229ad5a6cfb7",
@@ -182,21 +198,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe658f04637cca22",
+  "active": "29a70e17351afd77",
   "lastOpenFiles": [
+    "10. Programming/02. Algorithms/Bit Manipulation.md",
+    "10. Programming/02. Algorithms/Brute Force.md",
+    "10. Programming/02. Algorithms/Graph Traversal.md",
+    "10. Programming/06. Operating System/Deadlock.md",
+    "10. Programming/06. Operating System/Dining Philosophers Problem.md",
+    "00. Bookmarks/面試考古題.md",
+    "10. Programming/06. Operating System",
+    "00. Bookmarks/面試準備&技巧.md",
+    "00. Bookmarks/Behavoir Question Compilation.md",
+    "00. Bookmarks/Domain Knowledge 準備.md",
+    "00. Bookmarks/The only way to learn a new programming language is by writing programs in it..md",
     "10. Programming/05. Topics/Memory and Cache.md",
     "10. Programming/05. Topics/Machine Learning.md",
     "10. Programming/02. Algorithms/Backtracking.md",
     "10. Programming/01. LeetCode/1. Problems/Add Binary.md",
-    "00. Bookmarks/面試準備&技巧.md",
-    "00. Bookmarks/面試考古題.md",
     "Obsidian-Note",
     "10. Programming/01. LeetCode/1. Problems/Best Time to Buy and Sell Stock.md",
     "10. Programming/01. LeetCode/1. Problems/Climbing Stairs.md",
     "10. Programming/01. LeetCode/1. Problems/Balanced Binary Tree.md",
     "10. Programming/01. LeetCode/1. Problems/Linked List Cycle.md",
     "Excalidraw/Drawing - Data flow.md",
-    "00. Bookmarks/Behavoir Question Compilation.md",
     "10. Programming/03. Data Structures/Fundamental/Heap.md",
     "10. Programming/03. Data Structures/Fundamental/Queue.md",
     "10. Programming/03. Data Structures/Fundamental/Hash Table.md",
@@ -204,13 +228,6 @@
     "10. Programming/03. Data Structures/Fundamental/String.md",
     "10. Programming/03. Data Structures/Fundamental/Stack.md",
     "10. Programming/03. Data Structures/Fundamental/Set.md",
-    "10. Programming/03. Data Structures/Fundamental/Map.md",
-    "10. Programming/03. Data Structures/Fundamental/N-ary Tree.md",
-    "10. Programming/03. Data Structures/Fundamental/Linked List.md",
-    "10. Programming/03. Data Structures/Fundamental/List.md",
-    "10. Programming/03. Data Structures/Fundamental/Binary Tree.md",
-    "10. Programming/03. Data Structures/Fundamental/Binary Search Tree.md",
-    "10. Programming/03. Data Structures/Advanced/Skip List.md",
     "10. Programming/03. Data Structures/Fundamental",
     "10. Programming/03. Data Structures/Advanced",
     "10. Programming/01. LeetCode/Appendix",
@@ -223,7 +240,6 @@
     "Attachments/analysis_of_perfect_binary_tree.png",
     "20. Code Snippets/02.",
     "20. Code Snippets/03.",
-    "20. Code Snippets/01.",
-    "10. Programming/00. Resources"
+    "20. Code Snippets/01."
   ]
 }
