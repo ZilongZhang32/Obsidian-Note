@@ -85,7 +85,7 @@
 > 靈活且適用於大規模系統，但實作較複雜
 
 ### Dijkstra's Solution (Optional)
-Dijkstra 的解法透過**否定資源保持（Resource Holding）來避免死結：哲學家要嘛一次性地原子操作取得兩支叉子**，要嘛就完全不拿叉子、繼續等待，絕不會只拿其中一支叉子然後停在臨界區（Critical Section）外。
+Dijkstra 的解法透過**否定佔有等待（Hold and Wait）來避免死結：哲學家要嘛一次性地原子操作取得兩支叉子**，要嘛就完全不拿叉子、繼續等待，絕不會只拿其中一支叉子然後停在臨界區（Critical Section）外。
 
 為了達成這個目的，Dijkstra 的解法使用了：
 - 一個**互斥鎖（mutex）**

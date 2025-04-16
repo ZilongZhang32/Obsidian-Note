@@ -35,8 +35,7 @@
               "title": "Deadlock"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29a70e17351afd77",
+  "active": "fe658f04637cca22",
   "lastOpenFiles": [
+    "10. Programming/06. Operating System/Deadlock.md",
     "10. Programming/02. Algorithms/Bit Manipulation.md",
     "10. Programming/02. Algorithms/Brute Force.md",
     "10. Programming/02. Algorithms/Graph Traversal.md",
-    "10. Programming/06. Operating System/Deadlock.md",
     "10. Programming/06. Operating System/Dining Philosophers Problem.md",
     "00. Bookmarks/面試考古題.md",
     "10. Programming/06. Operating System",
