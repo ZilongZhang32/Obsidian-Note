@@ -8,34 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe658f04637cca22",
+            "id": "7fc402ffc485dfb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Programming/06. Operating System/Dining Philosophers Problem.md",
+                "file": "01. CSIE Domain Knowledge/06. Operating System/Race Condition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dining Philosophers Problem"
+              "title": "Race Condition"
             }
           },
           {
-            "id": "29a70e17351afd77",
+            "id": "e44ff9c28a536cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Programming/06. Operating System/Deadlock.md",
+                "file": "01. CSIE Domain Knowledge/06. Operating System/Deadlock.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Deadlock"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "d40c229ad5a6cfb7",
@@ -197,48 +207,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe658f04637cca22",
+  "active": "e44ff9c28a536cf1",
   "lastOpenFiles": [
-    "10. Programming/06. Operating System/Deadlock.md",
-    "10. Programming/02. Algorithms/Bit Manipulation.md",
-    "10. Programming/02. Algorithms/Brute Force.md",
-    "10. Programming/02. Algorithms/Graph Traversal.md",
-    "10. Programming/06. Operating System/Dining Philosophers Problem.md",
-    "00. Bookmarks/面試考古題.md",
-    "10. Programming/06. Operating System",
-    "00. Bookmarks/面試準備&技巧.md",
-    "00. Bookmarks/Behavoir Question Compilation.md",
-    "00. Bookmarks/Domain Knowledge 準備.md",
-    "00. Bookmarks/The only way to learn a new programming language is by writing programs in it..md",
-    "10. Programming/05. Topics/Memory and Cache.md",
-    "10. Programming/05. Topics/Machine Learning.md",
-    "10. Programming/02. Algorithms/Backtracking.md",
-    "10. Programming/01. LeetCode/1. Problems/Add Binary.md",
+    "01. CSIE Domain Knowledge/06. Operating System/Race Condition.md",
+    "01. CSIE Domain Knowledge/01. LeetCode/0. Problem Set/Grind 75.md",
+    "01. CSIE Domain Knowledge/01. LeetCode/0. Problem Set/Grind 169.md",
+    "01. CSIE Domain Knowledge/01. LeetCode/0. Problem Set/NeetCode 150.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Inline.md",
+    "01. CSIE Domain Knowledge/02. Algorithms/Bit Manipulation.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Linkage.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Macros.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Control Flow.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Error Detction and Handling.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Data Types.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Lvalue and Rvalue.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Inheritance.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Classes.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Exceptions.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Input and Output.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Memory.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Bitwise Operation.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Const and Constexpr.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Static.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Extern.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Undefined Behavior.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Advanced Use of Pointers.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Functions.md",
+    "01. CSIE Domain Knowledge/09. C and C++/Object Sizes and sizeof().md",
+    "01. CSIE Domain Knowledge/09. C and C++/Operator Percedences.md",
+    "01. CSIE Domain Knowledge/09. C and C++/02. C++",
+    "01. CSIE Domain Knowledge/09. C and C++/01. C",
+    "01. CSIE Domain Knowledge/10.",
+    "01. CSIE Domain Knowledge/09. C and C++",
+    "01. CSIE Domain Knowledge/08. Network",
+    "01. CSIE Domain Knowledge/07. Computer Organization",
+    "10. Programming/未命名.canvas",
+    "01. CSIE Domain Knowledge/06. Operating System",
     "Obsidian-Note",
-    "10. Programming/01. LeetCode/1. Problems/Best Time to Buy and Sell Stock.md",
-    "10. Programming/01. LeetCode/1. Problems/Climbing Stairs.md",
-    "10. Programming/01. LeetCode/1. Problems/Balanced Binary Tree.md",
-    "10. Programming/01. LeetCode/1. Problems/Linked List Cycle.md",
-    "Excalidraw/Drawing - Data flow.md",
-    "10. Programming/03. Data Structures/Fundamental/Heap.md",
-    "10. Programming/03. Data Structures/Fundamental/Queue.md",
-    "10. Programming/03. Data Structures/Fundamental/Hash Table.md",
-    "10. Programming/03. Data Structures/Fundamental/Trie.md",
-    "10. Programming/03. Data Structures/Fundamental/String.md",
-    "10. Programming/03. Data Structures/Fundamental/Stack.md",
-    "10. Programming/03. Data Structures/Fundamental/Set.md",
-    "10. Programming/03. Data Structures/Fundamental",
-    "10. Programming/03. Data Structures/Advanced",
-    "10. Programming/01. LeetCode/Appendix",
-    "10. Programming/01. LeetCode/1. Problems",
-    "10. Programming/01. LeetCode/0. Problem Set",
+    "01. CSIE Domain Knowledge/03. Data Structure/Fundamental",
+    "01. CSIE Domain Knowledge/03. Data Structure/Advanced",
     "Attachments/inverted_binary_tree_example_1.png",
     "Attachments/balanced_binary_tree.png",
     "Attachments/sorting_algorithms_comparison.png",
     "Attachments/binary_tree_definition.png",
-    "Attachments/analysis_of_perfect_binary_tree.png",
-    "20. Code Snippets/02.",
-    "20. Code Snippets/03.",
-    "20. Code Snippets/01."
+    "Attachments/analysis_of_perfect_binary_tree.png"
   ]
 }
